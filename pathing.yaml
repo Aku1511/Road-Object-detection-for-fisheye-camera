@@ -1,0 +1,13 @@
+path: C:/Users/Akanksha Pinto/Desktop/All desktop folders/IIST-Internship/Model1/dataset
+
+train: images/train
+
+val: images/val
+
+
+names:
+  0: bus
+  1: bike
+  2: car
+  3: pedestrian
+  4: truck
